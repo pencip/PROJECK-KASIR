@@ -1,0 +1,23 @@
+PANDUAN PENGGUNAAN FILE PERANCANGAN POS RESTORAN
+=================================================
+
+Halo Zakaria, berikut rincian isi paket perancangan sistem ini:
+
+1. Dokumen_Perancangan_POS_Restoran.pdf:
+   - Dokumen format PDF resmi yang sudah rapi lengkap dengan diagram dan tabel skenario use case.
+   - Siap langsung dicetak atau dilampirkan ke laporan tugas RPL.
+
+2. Dokumen_Perancangan_POS_Restoran.docx:
+   - Dokumen format Microsoft Word editable.
+   - Bisa diedit jika ingin menyesuaikan format margin, font kampus, atau cover laporan.
+
+3. use_case_diagram.drawio:
+   - File mentahan Draw.io yang siap dibuka dan diedit di https://app.diagrams.net
+   - Cara buka: Buka draw.io -> Klik menu 'File' -> 'Open From' -> 'Device' -> Pilih file ini.
+
+4. use_case_diagram.png & use_case_diagram.svg:
+   - Gambar diagram Use Case resolusi tinggi dalam format PNG dan Vektor SVG (tanpa pecah).
+
+=================================================
+File-file ini juga telah disalin ke folder Downloads (/home/zakaria/Downloads)
+agar dapat langsung dibuka melalui File Manager di komputer Anda!
